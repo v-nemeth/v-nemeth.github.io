@@ -1,5 +1,5 @@
 main .introduction>*{
-	display: inline-flex
+	display: inline-block
 }
 
 img{
