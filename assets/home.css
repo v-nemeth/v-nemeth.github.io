@@ -1,8 +1,16 @@
-main .introduction>*{
-	display: inline-block
+
+.introduction {
+    display: flex
 }
 
-img{
-	border-radius: 10%;
-	width:25%
+.introduction>* {
+    display: inline-block
 }
+
+.introduction img {
+    width:75%;
+    margin-left: 20%;
+    border-radius: 20%;
+}
+
+
