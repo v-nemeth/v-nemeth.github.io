@@ -1,19 +1,19 @@
 nav ul {
 	list-style-type: none;
-	margin: 0;
-	padding: 0
+	margin: 10;
+	padding:0
 }
 
-nav ul li {
+header nav ul li {
 	display: inline-block;
 	margin-bottom: 10px
 }
 
-nav ul li:not(:last-child) {
+header nav ul li:not(:last-child) {
 	margin-right: 10px
 }
 
-.active{
+header .active{
 	text-decoration: underline
 }
 
