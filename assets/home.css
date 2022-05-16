@@ -1,0 +1,8 @@
+main .introduction>*{
+	display: inline-flex
+}
+
+img{
+	border-radius: 10%;
+	width:25%
+}
