@@ -1,3 +1,11 @@
 .checked{
     color:orange
 }
+
+li{
+    position:relative;
+}
+
+.skillscore{
+    position:absolute; top:0;left:300px;
+}
