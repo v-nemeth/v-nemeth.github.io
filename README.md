@@ -1,1 +1,0 @@
-v-nemeth.github.io
