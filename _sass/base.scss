@@ -1,0 +1,31 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-circle {
+  a {
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;  // Makes the item circular
+    border: 4px solid #4a2e19;  // White border around the icon
+    background-color: #b5733f;
+    line-height: 40px;  // Vertically centers the icon
+    margin: 10px 5px;     // Spacing between icons
+    &:hover {
+      background-color: #85542e;  // Bootstrap's hover gray color
+    }
+  }
+}
+
+.character-card-image {
+  border: 4px solid #4a2e19;  // White border around the icon
+}
+
+.character-card {
+  background-color: #b5733f;
+  border-radius: 10%;
+  border: 4px solid #4a2e19;
+}

@@ -1,0 +1,13 @@
+<nav class="navbar-light h-100 rounded d-flex align-items-center">
+    <div class="h-50">
+        <ul class="navbar-nav h-100 justify-content-around">
+            {% for nav_item in site.data.navigation %}
+            <li class="nav-item active nav-circle">
+                <a href="{{ nav_item.link }}">
+                    <img class="img-fluid" src="{{ nav_item.icon }}" alt="nav_icon">
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</nav>
