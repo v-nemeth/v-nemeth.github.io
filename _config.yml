@@ -32,6 +32,10 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-multiple-languages-plugin
+languages: ["en"]
+exclude_from_localizations: ["javascript", "images", "css"]
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
