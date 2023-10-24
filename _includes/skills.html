@@ -1,0 +1,15 @@
+<div class="container mt-5">
+    <h1 class="text-center mb-4" style="font-weight: bold; color: #2C3E50;">My Professional Skillset</h1>
+    <div class="container">
+        <div class="row">
+            {% for item in site.data.skills %}
+            <div class="col-lg-4 text-center mb-5">
+                <img src="{{item.icon}}" alt="ruby" class="img-fluid rounded-image">
+                <h2 class="fw-normal">{{item.title}}</h2>
+                <p>{{item.description}}</p>
+                <p><a class="btn btn-secondary" target="_blank" href="{{item.link}}">View more &raquo;</a></p>
+            </div><!-- /.col-lg-4 -->
+            {% endfor %}
+        </div><!-- /.row -->
+    </div>
+</div>

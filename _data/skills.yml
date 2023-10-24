@@ -1,0 +1,40 @@
+- title: Ruby on Rails
+  description: Ruby on Rails is a streamlined web framework using Ruby, promoting rapid development, convention over configuration, and scalable applications.
+  icon: assets/images/rails.svg
+  link: https://rubyonrails.org/
+- title: PostgreSQL
+  description: PostgreSQL is an advanced, open-source relational database system known for extensibility, data integrity, and high performance.
+  icon: assets/images/postgres.svg
+  link: https://www.postgresql.org/
+- title: Agile
+  description: Agile is a flexible methodology prioritizing collaboration, iterative progress, and customer feedback to rapidly deliver high-quality software.
+  icon: assets/images/agile.png
+  link: https://agilemanifesto.org/
+- title: Bootstrap
+  description: Bootstrap is a responsive front-end framework, streamlining web design with pre-designed components and ensuring mobile-friendly, consistent aesthetics across devices.
+  icon: assets/images/bootstrap.svg
+  link: https://getbootstrap.com/
+- title: UML
+  description: UML emphasizes structured practices in system visualization, promoting clarity through standardized diagrams, ensuring consistent communication, and facilitating system design refinement.
+  icon: assets/images/uml.png
+  link: https://www.uml.org/
+- title: Heroku
+  description: Heroku simplifies app deployment with a cloud platform, supporting multiple languages, offering scalable resources, and emphasizing streamlined development-to-production workflows.
+  icon: assets/images/heroku.svg
+  link: https://www.heroku.com/
+- title: Git
+  description: Git is a distributed version control system, enabling developers to track changes, collaborate on projects, and manage codebases.
+  icon: assets/images/git.svg
+  link: https://git-scm.com/
+- title: JavaScript
+  description: JavaScript is a dynamic scripting language essential for web interactivity, powering client-side functions and increasingly server-side development through Node.js.
+  icon: assets/images/javascript.svg
+  link: https://www.javascript.com/
+- title: Python
+  description: Python excels in data analysis and machine learning, offering powerful libraries like pandas and scikit-learn for insightful data processing and predictive modeling.
+  icon: assets/images/python.svg
+  link: https://www.python.org/
+- title: Ruby
+  description: Ruby is an object-oriented programming language known for its elegant syntax, developer-friendly nature, and the powerful Rails web framework.
+  icon: assets/images/ruby.svg
+  link: https://www.ruby-lang.org/en/

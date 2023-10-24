@@ -28,6 +28,10 @@ html, body {
   background-color: #CC0000;
 }
 
+.bg-light-2 {
+  background-color: #fbfaf1;
+}
+
 .some-icon {
   font-size: 6rem;
   opacity: 0.3;
@@ -37,5 +41,14 @@ html, body {
 .some-icon:hover {
   opacity: 0.7;   /* Increase the opacity when hovered */
   transform: scale(1.1);  /* Scale the icon up to 110% of its original size */
+}
+
+.rounded-image {
+  width: 150px; /* You can adjust this value as needed */
+  height: 150px; /* You can adjust this value as needed */
+  border-radius: 10%; /* This makes the image round */
+  overflow: hidden; /* This ensures that the image doesn't overflow its container */
+  display: block; /* To apply margin automatically */
+  margin: 0 auto; /* Centers the image horizontally */
 }
 
