@@ -25,7 +25,7 @@ cities.each do |city_key|
       lng: city_hash[city_key][:lng],
       size: 10,
       type: "circle",
-      opacity: 0.6,
+      opacity: 1,
       hover_opacity: 1
     }
   end

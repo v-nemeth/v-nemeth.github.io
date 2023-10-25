@@ -957,130 +957,130 @@
   },
   locations: {
 "0": {
-name: "Singapore", lat: "1.3000", lng: "103.8000", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Singapore", lat: "1.3000", lng: "103.8000", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "1": {
-name: "Hamburg", lat: "53.5500", lng: "10.0000", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Hamburg", lat: "53.5500", lng: "10.0000", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "2": {
-name: "Szombathely", lat: "47.2351", lng: "16.6219", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Szombathely", lat: "47.2351", lng: "16.6219", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "3": {
-name: "Budapest", lat: "47.4925", lng: "19.0514", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Budapest", lat: "47.4925", lng: "19.0514", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "4": {
-name: "Prague", lat: "50.0875", lng: "14.4214", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Prague", lat: "50.0875", lng: "14.4214", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "5": {
-name: "Chicago", lat: "41.8375", lng: "-87.6866", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Chicago", lat: "41.8375", lng: "-87.6866", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "6": {
-name: "New York", lat: "40.6943", lng: "-73.9249", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "New York", lat: "40.6943", lng: "-73.9249", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "7": {
-name: "Phuket", lat: "7.8881", lng: "98.3975", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Phuket", lat: "7.8881", lng: "98.3975", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "8": {
-name: "Bangkok", lat: "13.7525", lng: "100.4942", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Bangkok", lat: "13.7525", lng: "100.4942", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "9": {
-name: "Kuala Lumpur", lat: "3.1478", lng: "101.6953", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Kuala Lumpur", lat: "3.1478", lng: "101.6953", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "10": {
-name: "Puerto del Rosario", lat: "28.5000", lng: "-13.8667", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Puerto del Rosario", lat: "28.5000", lng: "-13.8667", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "11": {
-name: "Arrecife", lat: "28.9625", lng: "-13.5506", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Arrecife", lat: "28.9625", lng: "-13.5506", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "12": {
-name: "Bad Gastein", lat: "47.11411", lng: "13.13205", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Bad Gastein", lat: "47.11411", lng: "13.13205", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "13": {
-name: "Wagrain", lat: "47.33348", lng: "13.29626", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Wagrain", lat: "47.33348", lng: "13.29626", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "14": {
-name: "Zell am See", lat: "47.3233", lng: "12.7981", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Zell am See", lat: "47.3233", lng: "12.7981", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "15": {
-name: "Obertauern", lat: "47.2483", lng: "13.55772", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Obertauern", lat: "47.2483", lng: "13.55772", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "16": {
-name: "Avoriaz", lat: "46.18823", lng: "6.775103", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Avoriaz", lat: "46.18823", lng: "6.775103", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "17": {
-name: "Grindelwald", lat: "46.62438", lng: "8.03455", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Grindelwald", lat: "46.62438", lng: "8.03455", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "18": {
-name: "Valletta", lat: "35.8983", lng: "14.5125", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Valletta", lat: "35.8983", lng: "14.5125", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "19": {
-name: "Belle Plagne", lat: "45.506459", lng: "6.706905", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Belle Plagne", lat: "45.506459", lng: "6.706905", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "20": {
-name: "Paris", lat: "48.8567", lng: "2.3522", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Paris", lat: "48.8567", lng: "2.3522", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "21": {
-name: "Val Thorens", lat: "45.298184", lng: "6.582426", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Val Thorens", lat: "45.298184", lng: "6.582426", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "22": {
-name: "Rome", lat: "41.8931", lng: "12.4828", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Rome", lat: "41.8931", lng: "12.4828", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "23": {
-name: "Venice", lat: "45.4397", lng: "12.3319", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Venice", lat: "45.4397", lng: "12.3319", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "24": {
-name: "Trysil", lat: "61.31315", lng: "12.26671", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Trysil", lat: "61.31315", lng: "12.26671", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "25": {
-name: "Oslo", lat: "59.9133", lng: "10.7389", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Oslo", lat: "59.9133", lng: "10.7389", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "26": {
-name: "Reykjavík", lat: "64.1467", lng: "-21.9400", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Reykjavík", lat: "64.1467", lng: "-21.9400", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "27": {
-name: "Mykines", lat: "62.110161", lng: "-7.63977100", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Mykines", lat: "62.110161", lng: "-7.63977100", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "28": {
-name: "Nuuk", lat: "64.1814", lng: "-51.6942", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Nuuk", lat: "64.1814", lng: "-51.6942", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "29": {
-name: "Malmö", lat: "55.6058", lng: "13.0358", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Malmö", lat: "55.6058", lng: "13.0358", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "30": {
-name: "Oradea", lat: "47.0722", lng: "21.9211", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Oradea", lat: "47.0722", lng: "21.9211", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "31": {
-name: "Pula", lat: "44.8703", lng: "13.8456", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Pula", lat: "44.8703", lng: "13.8456", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "32": {
-name: "Rijeka", lat: "45.3272", lng: "14.4411", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Rijeka", lat: "45.3272", lng: "14.4411", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "33": {
-name: "Boston", lat: "42.3188", lng: "-71.0852", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Boston", lat: "42.3188", lng: "-71.0852", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "34": {
-name: "Vienna", lat: "48.2083", lng: "16.3725", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Vienna", lat: "48.2083", lng: "16.3725", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "35": {
-name: "Saksun", lat: "62.245299", lng: "-7.164652", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Saksun", lat: "62.245299", lng: "-7.164652", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "36": {
-name: "Tjørnuvík", lat: "62.28896", lng: "7.14874", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Tjørnuvík", lat: "62.28896", lng: "7.14874", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "37": {
-name: "Phi Phi", lat: "7.740738", lng: "98.77841", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Phi Phi", lat: "7.740738", lng: "98.77841", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "38": {
-name: "Bled", lat: "46.3688", lng: "14.1140", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Bled", lat: "46.3688", lng: "14.1140", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "39": {
-name: "Munich", lat: "48.1375", lng: "11.5750", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Munich", lat: "48.1375", lng: "11.5750", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "40": {
-name: "Ljubljana", lat: "46.0514", lng: "14.5061", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Ljubljana", lat: "46.0514", lng: "14.5061", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "41": {
-name: "Kuala Tahan", lat: "4.3818998", lng: "102.401583", size: "10", type: "circle", opacity: "0.6", hover_opacity: "1"
+name: "Kuala Tahan", lat: "4.3818998", lng: "102.401583", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 }
 },
   regions: {
