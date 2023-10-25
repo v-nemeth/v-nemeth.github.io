@@ -1,0 +1,42 @@
+Singapore,SG
+Hamburg,DE
+Szombathely,HU
+Budapest,HU
+Prague,CZ
+Chicago,US
+New York,US
+Phuket,TH
+Bangkok,TH
+Kuala Lumpur,MY
+Puerto del Rosario,ES
+Arrecife,ES
+Bad Gastein,AT
+Wagrain,AT
+Zell am See,AT
+Obertauern,AT
+Avoriaz,FR
+Grindelwald,CH
+Valletta,MT
+Belle Plagne,FR
+Paris,FR
+Val Thorens,FR
+Rome,IT
+Venice,IT
+Trysil,NO
+Oslo,NO
+Reykjavík,IS
+Mykines,FO
+Nuuk,GL
+Malmö,SE
+Oradea,RO
+Pula,HR
+Rijeka,HR
+Boston,US
+Vienna,AT
+Saksun,FO
+Tjørnuvík,FO
+Phi Phi,TH
+Bled,SI
+Munich,DE
+Ljubljana,SI
+Kuala Tahan,MY
