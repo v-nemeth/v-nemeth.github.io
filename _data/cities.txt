@@ -34,9 +34,9 @@ Rijeka,HR
 Boston,US
 Vienna,AT
 Saksun,FO
-Tjørnuvík,FO
 Phi Phi,TH
 Bled,SI
 Munich,DE
 Ljubljana,SI
 Kuala Tahan,MY
+London,GB

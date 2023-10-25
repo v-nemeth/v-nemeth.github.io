@@ -1065,22 +1065,22 @@ name: "Vienna", lat: "48.2083", lng: "16.3725", size: "10", type: "circle", opac
 name: "Saksun", lat: "62.245299", lng: "-7.164652", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
 "36": {
-name: "Tjørnuvík", lat: "62.28896", lng: "7.14874", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
-},
-"37": {
 name: "Phi Phi", lat: "7.740738", lng: "98.77841", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
-"38": {
+"37": {
 name: "Bled", lat: "46.3688", lng: "14.1140", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
-"39": {
+"38": {
 name: "Munich", lat: "48.1375", lng: "11.5750", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
-"40": {
+"39": {
 name: "Ljubljana", lat: "46.0514", lng: "14.5061", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 },
-"41": {
+"40": {
 name: "Kuala Tahan", lat: "4.3818998", lng: "102.401583", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
+},
+"41": {
+name: "London", lat: "51.5072", lng: "-0.1275", size: "10", type: "circle", opacity: "1", hover_opacity: "1"
 }
 },
   regions: {
