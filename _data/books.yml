@@ -1,0 +1,24 @@
+- title: Clean Code - A Handbook of Agile Software Craftsmanship
+  author: Robert C. Martin
+  isbn: 978-0132350884
+  image: "/assets/images/books/clean-code.jpg"
+  status: "On Hold"
+  progress: "7/17"
+- title: Loved - How to rethink marketing for tech products
+  author: Martina Lauchengco
+  isbn: 978-1119703648
+  image: "/assets/images/books/loved.jpg"
+  status: "Currently Reading"
+  progress: "2/30"
+- title: Finish what you start
+  author: Peter Hollins
+  isbn: 978-1986622318
+  image: "/assets/images/books/finish-what-you-start.jpg"
+  status: "Completed"
+  progress: "8/8"
+- title: Modern Front-End Development for Rails - Hotwire, Stimulus, Turbo, and React
+  author: Noel Rappin
+  isbn: 978-1680507218
+  image: "/assets/images/books/modern-frontend.jpg"
+  status: "Plan to read"
+  progress: "?/?"

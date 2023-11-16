@@ -1,49 +1,49 @@
 - title: Ruby on Rails
   description: Ruby on Rails is a streamlined web framework using Ruby, promoting rapid development, convention over configuration, and scalable applications.
-  icon: assets/images/rails.svg
+  icon: "assets/images/icons/rails.svg"
   link: https://rubyonrails.org/
 - title: Ruby
   description: Ruby is an object-oriented programming language known for its elegant syntax, developer-friendly nature, and the powerful Rails web framework.
-  icon: assets/images/ruby.svg
+  icon: "assets/images/icons/ruby.svg"
   link: https://www.ruby-lang.org/en/
 - title: Agile
   description: Agile is a flexible methodology prioritizing collaboration, iterative progress, and customer feedback to rapidly deliver high-quality software.
-  icon: assets/images/agile.png
+  icon: "assets/images/icons/agile.png"
   link: https://agilemanifesto.org/
 - title: Git
   description: Git is a distributed version control system, enabling developers to track changes, collaborate on projects, and manage codebases.
-  icon: assets/images/git.svg
+  icon: "assets/images/icons/git.svg"
   link: https://git-scm.com/
 - title: JavaScript
   description: JavaScript is a dynamic scripting language essential for web interactivity, powering client-side functions and increasingly server-side development through Node.js.
-  icon: assets/images/javascript.svg
+  icon: "assets/images/icons/javascript.svg"
   link: https://www.javascript.com/
 - title: Bootstrap
   description: Bootstrap is a responsive front-end framework, streamlining web design with pre-designed components and ensuring mobile-friendly, consistent aesthetics across devices.
-  icon: assets/images/bootstrap.svg
+  icon: "assets/images/icons/bootstrap.svg"
   link: https://getbootstrap.com/
 - title: UML
   description: UML emphasizes structured practices in system visualization, promoting clarity through standardized diagrams, ensuring consistent communication, and facilitating system design refinement.
-  icon: assets/images/uml.png
+  icon: "assets/images/icons/uml.png"
   link: https://www.uml.org/
 - title: PostgreSQL
   description: PostgreSQL is an advanced, open-source relational database system known for extensibility, data integrity, and high performance.
-  icon: assets/images/postgres.svg
+  icon: "assets/images/icons/postgres.svg"
   link: https://www.postgresql.org/
 - title: Heroku
   description: Heroku simplifies app deployment with a cloud platform, supporting multiple languages, offering scalable resources, and emphasizing streamlined development-to-production workflows.
-  icon: assets/images/heroku.svg
+  icon: "assets/images/icons/heroku.svg"
   link: https://www.heroku.com/
 - title: Python
   description: Python excels in data analysis and machine learning, offering powerful libraries like pandas and scikit-learn for insightful data processing and predictive modeling.
-  icon: assets/images/python.svg
+  icon: "assets/images/icons/python.svg"
   link: https://www.python.org/
 - title: Java
   description: Java is a versatile, object-oriented programming language renowned for its platform independence, robustness, and performance. Commonly used in web applications, enterprise systems, and Android mobile development, Java offers an extensive standard library and compatibility with numerous frameworks and tools.
-  icon: assets/images/java.svg
+  icon: "assets/images/icons/java.svg"
   link: https://www.java.com/
 - title: Docker
   description: Docker is a platform that uses containerization to ensure consistency across multiple environments, simplifying application deployment, scaling, and versioning, enhancing developer workflows.
-  icon: assets/images/docker.svg
+  icon: "assets/images/icons/docker.svg"
   link: https://www.docker.com/
 

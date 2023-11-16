@@ -1,0 +1,57 @@
+---
+layout: default
+---
+<div class="container mt-5 mb-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8 text-center mb-5">
+            <h2 class="font-weight-bold">My Book List</h2>
+        </div>
+        <!-- Button group for filtering -->
+        <div class="btn-group mb-3" role="group" aria-label="Basic example">
+            <button type="button" class="btn btn-secondary" onclick="filterBooks('all')">All Books</button>
+            <button type="button" class="btn btn-secondary" onclick="filterBooks('completed')">Completed</button>
+            <button type="button" class="btn btn-secondary" onclick="filterBooks('currently-reading')">Currently Reading</button>
+            <button type="button" class="btn btn-secondary" onclick="filterBooks('plan-to-read')">Plan to Read</button>
+            <button type="button" class="btn btn-secondary" onclick="filterBooks('on-hold')">On Hold</button>
+        </div>
+        <div class="col-md-12">
+            <table class="table table-hover shadow-sm" id="booksTable">
+                <thead class="thead-light">
+                <tr>
+                    <th scope="col">Cover</th>
+                    <th scope="col">Title</th>
+                    <th scope="col">Author</th>
+                    <th scope="col">ISBN</th>
+                    <th scope="col">Status</th>
+                    <th scope="col">Progress</th>
+                </tr>
+                </thead>
+                <tbody>
+                {% for book in site.data.books %}
+                <tr data-status="{{ book.status | slugify }}">
+                    <td><img src="{{ book.image }}" alt="{{ book.title }}" class="img-fluid rounded" style="width:100px;"></td>
+                    <td>{{ book.title }}</td>
+                    <td>{{ book.author }}</td>
+                    <td>{{ book.isbn | default: 'N/A' }}</td>
+                    <td>{{ book.status }}</td>
+                    <td>{{ book.progress }}</td>
+                </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<script>
+    function filterBooks(status) {
+        var rows = document.querySelectorAll('#booksTable tbody tr');
+        rows.forEach(row => {
+            if (status === 'all' || row.getAttribute('data-status') === status.toLowerCase()) {
+                row.style.display = '';
+            } else {
+                row.style.display = 'none';
+            }
+        });
+    }
+</script>
